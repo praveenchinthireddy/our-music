@@ -1,0 +1,13 @@
+body{
+    
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url(music2.png);
+    background-color: black;
+}
+button{
+    color: burlywood;
+    font-size: 2rem;
+    background-color: black;
+}
